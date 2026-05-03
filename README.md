@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=111111&center=true&vCenter=true&width=720&height=60&lines=Hi%2C+I'm+Wangver.;Founder+of+WangVer.;IDC+%C2%B7+Network+%C2%B7+Security." alt="Wangver" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=111111&center=true&vCenter=true&width=720&height=60&lines=Hi%2C+I'm+Wangver.;Founder+of+multiple+ventures.;IDC+%C2%B7+Network+%C2%B7+Security.;Vibe+Coding+is+BEST!" alt="Wangver" />
 
 <p>
   <sub>开发者 · 创业者 · IDC 与网络基础设施</sub>
@@ -10,6 +10,7 @@
 
 <sub>
   <a href="#about">关于</a> ·
+  <a href="#creed">信条</a> ·
   <a href="#stack">技术</a> ·
   <a href="#focus">方向</a> ·
   <a href="#work">作品</a> ·
@@ -23,9 +24,33 @@
 
 <h2 id="about">关于</h2>
 
-我是 **Wangver**，WangVer 创始人。主攻 IDC，对网络、前后端、中小型团队运营以及 DDoS 攻防都有持续研究与一些成果。已实现财富自由，欢迎各路同行交流。
+我是 **Wangver**，某多个小有名气商业项目创始人。主攻 IDC，对网络、前后端、中小型团队运营以及 DDoS 攻防都有持续研究与一些成果。已实现财富自由，欢迎各路同行交流。
 
 > 平常不怎么看 GitHub Issue，**有事请直接联系我的 Telegram**：[@PHX_poster](https://t.me/PHX_poster?direct)。
+
+<br />
+
+<h2 id="creed">信条</h2>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <br />
+      <strong>「 我永远相信中国奠信 」</strong>
+      <br /><br />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <br />
+      <strong>「 Vibe Coding is BEST! 」</strong>
+      <br /><br />
+      <a href="https://cursor.com">
+        <img src="https://img.shields.io/badge/Powered%20by-Cursor-111?style=flat-square&logo=cursor&logoColor=white" alt="Powered by Cursor" />
+      </a>
+      <br /><br />
+    </td>
+  </tr>
+</table>
+
 
 <br />
 
@@ -40,6 +65,7 @@
   <img src="https://img.shields.io/badge/Nginx-111?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Cloudflare-111?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Cursor-111?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
 </p>
 
 
