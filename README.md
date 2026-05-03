@@ -23,7 +23,7 @@
 
 <h2 id="about">关于</h2>
 
-我是 **Wangver**，某多个小有名气商业项目创始人。主攻 IDC，对网络、前后端、中小型团队运营以及 DDoS 攻防都有持续研究与一些成果。已实现财富自由，欢迎各路同行交流。
+我是 **Wangver**，WangVer 创始人。主攻 IDC，对网络、前后端、中小型团队运营以及 DDoS 攻防都有持续研究与一些成果。已实现财富自由，欢迎各路同行交流。
 
 > 平常不怎么看 GitHub Issue，**有事请直接联系我的 Telegram**：[@PHX_poster](https://t.me/PHX_poster?direct)。
 
@@ -79,13 +79,13 @@
 
 <h2 id="stats">数据</h2>
 
-<div align="center">
+<p>
+  <a href="https://github.com/wangver721?tab=followers"><img src="https://img.shields.io/github/followers/wangver721?style=flat-square&label=Followers&color=111&logo=github&logoColor=white" alt="Followers" /></a>
+  <a href="https://github.com/wangver721?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwangver721&style=flat-square&color=111&logo=github&logoColor=white" alt="Public Repos" /></a>
+  <a href="https://github.com/wangver721/VerPadProxy"><img src="https://img.shields.io/github/stars/wangver721/VerPadProxy?style=flat-square&label=VerPadProxy&color=111&logo=github&logoColor=white" alt="VerPadProxy Stars" /></a>
+  <a href="https://github.com/wangver721/Ver-Hanime1Downloader"><img src="https://img.shields.io/github/stars/wangver721/Ver-Hanime1Downloader?style=flat-square&label=Ver-Hanime1Downloader&color=111&logo=github&logoColor=white" alt="Ver-Hanime1Downloader Stars" /></a>
+</p>
 
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=wangver721&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&hide=contribs&bg_color=ffffff&title_color=111111&text_color=111111&icon_color=111111&ring_color=111111" alt="GitHub Stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangver721&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=111111" alt="Top Languages" />
-
-</div>
 
 <br />
 
